@@ -20,7 +20,7 @@ Here you can find links for all mentioned assets and example files.
 * [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
 * [PlayMaker](https://assetstore.unity.com/packages/tools/visual-scripting/playmaker-368)
 * [Game Creator](https://assetstore.unity.com/packages/tools/game-toolkits/game-creator-89443)
-* [Bolt Unity Events][https://assetstore.unity.com/packages/tools/visual-scripting/bolt-unity-events-175821]
+* [Bolt Unity Events](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-unity-events-175821)
 
 ## UI Packs
 
