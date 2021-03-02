@@ -14,6 +14,8 @@ Here you can find links for all mentioned assets and example files.
 * [Hierarchy PRO - Extended](https://assetstore.unity.com/packages/tools/utilities/hierarchy-pro-extended-115861) & [LITE](https://assetstore.unity.com/packages/tools/utilities/hierarchy-pro-89542)
 * [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
 * [Flaticon.com](https://www.flaticon.com)
+* [Custom Hierarchy](https://github.com/febucci/unitypackage-custom-hierarchy)
+* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 
 ## Bolt
 
